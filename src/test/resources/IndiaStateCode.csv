@@ -1,0 +1,29 @@
+SrNo,StateName,TIN,StateCode
+1,Andhra Pradesh,37,AP
+2,Arunachal Pradesh,12,AR
+3,Assam,18,AS
+4,Bihar,10,BR
+5,Chhattisgarh,22,CG
+6,Goa,30,GA
+7,Gujarat,24,GJ
+8,Haryana,6,HR
+9,Himachal Pradesh,2,HP
+10,Jharkhand,20,JH
+11,Karnataka,29,KA
+12,Kerala,32,KL
+13,Madhya Pradesh,23,MP
+14,Maharashtra,27,MH
+15,Manipur,14,MN
+16,Meghalaya,17,ML
+17,Mizoram,15,MZ
+18,Nagaland,13,NL
+19,Odisha,21,OD
+20,Punjab,3,PB
+21,Rajasthan,8,RJ
+22,Sikkim,11,SK
+23,Tamil Nadu,33,TN
+24,Telangana,36,TS
+25,Tripura,16,TR
+26,Uttar Pradesh,9,UP
+27,Uttarakhand,5,UK
+28,West Bengal,19,WB
